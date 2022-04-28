@@ -1,0 +1,12 @@
+body {
+    document.body.style.backgroundColor:f();
+    height: 100%;
+    width: 100%;
+}
+
+button {
+    height:100px;
+    width:100px;
+    background-color: brown;
+}
+

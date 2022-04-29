@@ -46,12 +46,25 @@ h0 {
     background-attachment: fixed;
 }
 
-.text {
+/* .imagebas {
+    background-image:url("https://img2.freepng.fr/20180427/wfe/kisspng-drawing-tentacle-picsart-photo-studio-white-color-5ae33ccbcac8c3.4419159915248416758306.jpg")
+} */
+
+.competencestitre {
     color: white;
-    text-align: left; 
-    display:flex;
-    margin-left: 250px;
-    justify-content: center;
-    background-attachment: fixed;
-    font-size: medium;
+    font-family: 'Monoton', cursive;
 }
+
+.contact {
+    text-align: left;
+    margin-left: 50px;
+    font-size: smaller;
+}
+
+.text {
+    text-align: left;
+    margin-left: 50px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+

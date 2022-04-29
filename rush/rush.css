@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+*{
+    margin: 0;
+
+}
+
+
+.body {
+    overflow:auto;
+    border-collapse: collapse;
+    /* height :100vh; */
+    /* margin:0px; */
+}
+
+.parallax-effect {
+    background-image:url("https://img2.juzaphoto.com/001/shared_files/uploads/2952822.jpg");
+    min-height:100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display:flex;
+    justify-content: center;
+}
+
+h2 {
+    color : white ;
+    text-align: center; 
+    font-family:'Monoton', cursive;
+    font-size:50px;
+
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+
+h0 {
+    color:white;
+    text-align: center; 
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+
+.text {
+    color: white;
+    text-align: left; 
+    display:flex;
+    margin-left: 250px;
+    justify-content: center;
+    background-attachment: fixed;
+    font-size: medium;
+}
